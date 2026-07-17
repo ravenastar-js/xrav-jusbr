@@ -90,7 +90,7 @@ O uso desta ferramenta deve estar em conformidade com as seguintes normas e legi
 - **Art. 159 §4º CPP** – Assistência Técnica em Perícias Digitais.
 - **Lei nº 13.432/2017** – Produção de inteligência e suporte técnico.
 
-## 💡 Recomendação Complementar
+## 💡 Recomendações Complementares
 
 1. [`zcpf-finder`](https://github.com/zr0n/zcpf-finder)
 
@@ -103,6 +103,9 @@ O uso desta ferramenta deve estar em conformidade com as seguintes normas e legi
 3. [`OSINT Leak`](https://osintleak.com/)
 
 > Plataforma de inteligência em tempo real sobre brechas e dados vazados para investigadores, empresas e equipes de segurança.
+
+Mais ferramentas em: 
+🔗 https://ravenastar.com/xrav
 
 ## ⚠️ Aviso Legal
 
