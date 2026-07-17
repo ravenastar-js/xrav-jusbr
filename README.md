@@ -104,7 +104,7 @@ O uso desta ferramenta deve estar em conformidade com as seguintes normas e legi
 
 > Plataforma de inteligência em tempo real sobre brechas e dados vazados para investigadores, empresas e equipes de segurança.
 
-Mais ferramentas em: 
+Mais ferramentas em:
 🔗 https://ravenastar.com/xrav
 
 ## ⚠️ Aviso Legal
