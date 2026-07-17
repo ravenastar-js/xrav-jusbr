@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Esta ferramenta é básica e ainda está em fase de desenvolvimento. Novas melhorias e recursos serão adicionados em breve...
+> A ferramenta é básica e ainda está em fase de desenvolvimento. Novas melhorias e recursos serão adicionados em breve...
 
 ---
 
