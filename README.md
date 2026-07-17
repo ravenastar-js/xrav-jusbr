@@ -1,3 +1,8 @@
+> [!WARNING]  
+> Esta ferramenta é básica e ainda está em fase de desenvolvimento. Novas melhorias e recursos serão adicionados em breve...
+
+---
+
 # XRAV JUSBR
 
 Esta ferramenta foi desenvolvida exclusivamente para fins educacionais, de pesquisa, investigação, produção de inteligência e suporte técnico. Seu objetivo é automatizar a extração de informações públicas disponíveis no site Jusbrasil, utilizando um mecanismo de **triangulação de dados** entre nome e CPF do alvo.
