@@ -55,7 +55,7 @@ devtools-xrav-jusbr-YYYYMMDD_HHMMSS.txt
    - Pressione `F12` (ou `Ctrl+Shift+I`).
    - Vá para a aba `Console`.
 3. **Cole o Script**: Copie o conteúdo do arquivo gerado e cole no console.
-4. **Pressione `ENTER`**: A interface do XRAV JUSBR aparecerá.
+4. **Pressione `ENTER`**: A interface de XRAV JUSBR aparecerá.
 5. **Preencha os Dados**:
    - O nome será detectado automaticamente pela ferramenta.
    - Insira a máscara do CPF desejada (ex: `***.123.123-**`).
