@@ -97,7 +97,6 @@ Recomendamos utilizar a ferramenta complementar [`zcpf-finder`](https://github.c
 
 ## ⚠️ Aviso Legal
 
-### Declaração de Uso
 Esta ferramenta foi desenvolvida **exclusivamente para fins educacionais, de pesquisa, investigação, produção de inteligência e suporte técnico**. O usuário declara estar plenamente ciente e responsável pelo uso que fizer dela, comprometendo-se a:
 
 - **Cumprir integralmente** todas as legislações de privacidade e proteção de dados aplicáveis (como LGPD, GDPR e demais normas pertinentes).  
