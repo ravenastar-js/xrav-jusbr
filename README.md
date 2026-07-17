@@ -92,7 +92,17 @@ O uso desta ferramenta deve estar em conformidade com as seguintes normas e legi
 
 ## 💡 Recomendação Complementar
 
-Recomendamos utilizar a ferramenta complementar [`zcpf-finder`](https://github.com/zr0n/zcpf-finder) para busca em massa de CPFs no Portal da Transparência, permitindo validar e cruzar informações com bases governamentais.
+1. [`zcpf-finder`](https://github.com/zr0n/zcpf-finder)
+
+> Para busca em massa de CPFs no Portal da Transparência, permitindo validar e cruzar informações com bases governamentais.
+
+2. [`mind-7`](https://secguide.pages.dev/r/mind-7)
+
+> Plataforma de busca de dados com sistema completo de consulta. Simplifique suas pesquisas com acesso ao melhor sistema do mercado.
+
+3. [`OSINT Leak`](https://osintleak.com/)
+
+> Plataforma de inteligência em tempo real sobre brechas e dados vazados para investigadores, empresas e equipes de segurança.
 
 ## ⚠️ Aviso Legal
 
