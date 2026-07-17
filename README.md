@@ -44,13 +44,7 @@ devtools-xrav-jusbr-YYYYMMDD_HHMMSS.txt
 
 ## 🚀 Como Usar
 
-### Pré-requisitos
-- Navegador atualizado (Firefox, Chrome, Brave, etc.)
-- Acesso ao site [Jusbrasil](https://www.jusbrasil.com.br)
-
-### Passo a Passo
-
-1. **Acesse o Jusbrasil** e realize a busca pela pessoa desejada.
+1. **Acesse o [Jusbrasil](https://www.jusbrasil.com.br)** e realize a busca pela pessoa desejada.
 2. **Abra o Console do Navegador**:
    - Pressione `F12` (ou `Ctrl+Shift+I`).
    - Vá para a aba `Console`.
