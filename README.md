@@ -33,7 +33,7 @@ Para gerar o arquivo `devtools-xrav-jusbr-YYYYMMDD_HHMMSS.txt` que contém o scr
 4. Abra o **PowerShell** ou **Prompt de Comando**.
 5. Execute o gerador:
 ```powershell
-python xrav-jusbr.py
+python xrav_jusbr.py
 ```
 
 ### 📄 Resultado
